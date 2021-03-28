@@ -1,5 +1,5 @@
 ## 파이썬을 이용한 개인화 추천 시스템
-![캡처](https://user-images.githubusercontent.com/81248507/112752414-d8ba6180-900d-11eb-9340-6d8a4950a264.PNG)
+![캡처](https://user-images.githubusercontent.com/81248507/112752414-d8ba6180-900d-11eb-9340-6d8a4950a264.PNG){: width="50%" height="50%"}
 
 ### 1. 추천 시스템 소개
 1.1 주요 추천 알고리즘<br>
